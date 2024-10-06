@@ -1,7 +1,3 @@
-# Introduction of project
-This is the 3rd React Skill test project assigned by Coding Ninjas.
-Project Name: Chat App 2
-
 ## Available Scripts
 
 In the project directory, you can run:
